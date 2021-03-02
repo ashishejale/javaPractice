@@ -1,1 +1,2 @@
-Here we are trying to replicate a burger ordering system where depending on what addons you add to ypur burger a bill is generated. I made use of Inheritance to avoid reusing code.
+Here we are trying to replicate a burger ordering system where depending on what addons you add to your burger a bill is generated on the console. 
+I made use of Inheritance to avoid re-using code.
