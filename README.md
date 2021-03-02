@@ -1,1 +1,1 @@
-I'll be posting basic Java programs here that I made while learning.
+I'll be posting programs here that I made while learning Java.
