@@ -1,1 +1,1 @@
-I'll be posting programs here that I made while learning Java.
+ Collection of programming problems I've completed that I made while learning Java.
